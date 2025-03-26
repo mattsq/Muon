@@ -2,6 +2,8 @@
 
 This repo contains an implementation of the `Muon` optimizer originally described in [this thread](https://x.com/kellerjordan0/status/1842300916864844014) and [this writeup](https://kellerjordan.github.io/posts/muon/).
 
+**Matt S: I Don't really need it to use cuda, or torch.distributed, so this strips all that code out. Thanks Claude!**
+
 ## Installation
 
 ```
